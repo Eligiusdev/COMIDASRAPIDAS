@@ -1,0 +1,5 @@
+Burger: Triple, incluye tocineta, lechuga, queso y pepinillo
+Hotdog: Tocineta=true, Queso Adicional=true
+French Fries: Crujientes doradas
+Chorizo: Ensalada=false, incluye arepa y papa cocida
+Burger: Triple, incluye tocineta, lechuga, queso y pepinillo
